@@ -1,0 +1,12 @@
+boundary
+boundary.applicantview
+boundary.filehandlerview
+boundary.managerview
+boundary.officerview
+controller
+database
+entity
+enums
+interfaces
+main
+utils

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"boundary"},{"l":"boundary.applicantview"},{"l":"boundary.filehandlerview"},{"l":"boundary.managerview"},{"l":"boundary.officerview"},{"l":"controller"},{"l":"database"},{"l":"entity"},{"l":"enums"},{"l":"interfaces"},{"l":"main"},{"l":"utils"}]

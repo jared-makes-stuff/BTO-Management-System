@@ -1,0 +1,9 @@
+Project Name,Neighborhood,Type 1,Number of units for Type 1,Selling price for Type 1,Type 2,Number of units for Type 2,Selling price for Type 2,Application opening date,Application closing date,Manager,Officer Slot,Officer
+Acacia Breeze,Yishun,2-Room,2,350000.0,3-Room,3,450000.0,2025-02-01,2025-02-14,Jessica,3,"Daniel,Emily"
+test1,Yishun,2-Room,2,350000.0,3-Room,3,450000.0,2025-02-15,2025-03-20,Jessica,3,"Daniel"
+test2,Bedok,2-Room,2,350000.0,3-Room,3,450000.0,2025-02-15,2025-03-20,Michael,3,"Emily"
+test3,Yishun,2-Room,2,350000.0,3-Room,3,450000.0,2200-09-15,2200-09-20,Jessica,3,"Daniel,Emily"
+test4,Holland Village,2-Room,2,350000.0,3-Room,3,450000.0,2024-08-15,2024-08-20,Jessica,5,"Daniel,Emily"
+test5,Yishun,2-Room,2,350000.0,3-Room,3,450000.0,2025-04-15,2026-03-20,Jessica,3,"Daniel"
+test6,Yishun,2-Room,2,100000.0,3-Room,3,450000.0,2025-02-15,2027-03-20,Michael,3,"Emily"
+test7,Yishun,2-Room,2,350000.0,3-Room,3,450000.0,2027-02-15,2028-03-20,Jessica,3,"Daniel,Emily"
